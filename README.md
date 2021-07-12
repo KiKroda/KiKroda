@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KiKroda
-- 👀 I’m interested in Data Sata science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 
 
